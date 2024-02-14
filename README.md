@@ -1,1 +1,1 @@
-# Noise-Removing-from-Continuous-Signal-using-FFT
+# Noise Removing from Continuous Signal using FFT
